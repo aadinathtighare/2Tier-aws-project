@@ -84,6 +84,10 @@ connect to rds cluster and execute below sql query to view all information you s
 
 SELECT * from adi-database.customers;
 
-=====================================================================================================================================================================
+=======================================================================================================================
+for all code go to my github repo & fork it :--> (Below Link)
+
+https://github.com/aadinathtighare/2Tier-aws-project
+
 
 
